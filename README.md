@@ -77,7 +77,6 @@ Lux muito baixo
 ```
 
 ## ✅ Resultados Esperados
-- Funcionalidade	Resultado Esperado
 - Leitura de Luminosidade	Exibição do valor de lux atualizado no display a cada ~200ms
 - Controle de Servo	Posição do servo variando proporcionalmente ao valor de lux
 - Exibição em Display OLED	Mensagem “Lux muito baixo” se < 10 lux, ou valor numérico se >= 10 lux
